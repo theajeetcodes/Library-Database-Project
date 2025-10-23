@@ -1,8 +1,9 @@
 # Library Database Project
 
 ## Overview
-This is a SQL-based Library Management Database project.  
-It contains tables for **Authors**, **Books**, **Borrowers**, and **Loans**, demonstrating relational design and sample data handling.
+This is a SQL-based Library Management Database project. 
+It contains tables for Authors, Books, Borrowers, and Loans, 
+demonstrating database relationships and sample data handling.
 
 ## Features
 - Authors, Books, Borrowers, and Loans tables
